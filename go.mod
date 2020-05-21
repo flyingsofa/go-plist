@@ -1,5 +1,7 @@
 module github.com/flyingsofa/go-plist
 
+go 1.14
+
 require (
 	// for cmd/ply
 	github.com/jessevdk/go-flags v1.4.0
